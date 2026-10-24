@@ -1,2 +1,5 @@
-Learning how to make tests : has already written code i just wrote the tests to learn rspec testing
-learning test driven development : i wrote tests then the actual logic
+## learninghowtomaketests
+Practice with RSpec. The code was written first, then I wrote the tests for it.
+
+## learningtestdrivendevelopment
+Practice with TDD. I wrote the tests first, then the code to make them pass.
