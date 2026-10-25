@@ -48,4 +48,4 @@ p(people.select { |person| person[:name].length > 3 })
 p(scores.select { |name, score| score >= 70 })
 # 1.13 Select the pairs whose name starts with m.
 #                                               expected: {"mia"=>92}
-p(scores.select { |name, score| name.start_with?('m') })
+p(scores.select { |name, score| name.start_with('m') })
